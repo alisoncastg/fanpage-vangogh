@@ -1,0 +1,34 @@
+*{ 
+    font-family: 'Work Sans', sans-serif;
+}
+
+.titulo{
+    font-family: 'DM Serif Text', serif;
+    text-shadow: 2px 2px white;
+    margin-top: 15px;
+    margin-bottom: auto;
+}
+
+hr{
+    opacity: 70%;
+}
+blockquote{
+    font-size: 19px;
+}
+
+li{
+list-style: none;
+}
+
+a{
+    color: black;
+}
+
+a:link{
+   text-decoration: none;
+   color: black;
+}
+
+a:link:hover{
+    text-decoration: underline;
+}
